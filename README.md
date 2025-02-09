@@ -16,3 +16,5 @@ User-friendly interface with a modern design.
 1. Enter a location in the input box.
 2. Click the "Get Weather" button.
 3. View the current temperature and weather condition of the entered location.
+
+![image](https://github.com/user-attachments/assets/3d822ee6-d264-4004-8a42-a96b82d31df8)
